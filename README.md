@@ -1,2 +1,2 @@
 # csc6
-A repository for work in CSC IV.
+A repository for work in CSC VI.
